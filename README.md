@@ -11,7 +11,7 @@ El proyecto está configurado para que al descargarse o clonarse desde GitHub **
 ### 1. Clonar el repositorio
 
 ```powershell
-git clone https://github.com/Giani1811/plataforma-inteligencia-empresarial.git
+git clone https://github.com/coder-WillGia/plataforma-inteligencia-empresarial.git
 cd plataforma-inteligencia-empresarial
 ```
 
