@@ -1,6 +1,22 @@
 {
   "produccion": [
     {
+      "id": "PRD-025",
+      "mes": "2026-11",
+      "mesNombre": "Nov 2026",
+      "fecha": "2026-11-15",
+      "unidadMinera": "Tajo Abierto Antamina Norte",
+      "mineral": "Cobre",
+      "turno": "Día",
+      "toneladasExtraidas": 54000,
+      "toneladasObjetivo": 52000,
+      "leyMineralPct": 1.45,
+      "horasOperacion": 690,
+      "eficienciaPct": 99.9,
+      "estado": "Cumplido",
+      "observaciones": "Operación regular controlada."
+    },
+    {
       "id": "PRD-001",
       "mes": "2026-01",
       "mesNombre": "Ene 2026",
